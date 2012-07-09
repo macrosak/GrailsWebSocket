@@ -54,3 +54,4 @@ grails.project.dependency.resolution = {
         compile ':cache:1.0.0'
     }
 }
+grails.tomcat.nio = true
